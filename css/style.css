@@ -1,6 +1,23 @@
 .header {
     color: aquamarine;
 }
+
+nav.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: transparent;
+  
+}
+
+.hero {
+  min-height: 100vh;
+  background-image: url("../images/modern-matte-black-kitchen-cabinets-obk22-dark-1024.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed  ;
+}
 .mycolor {
     color: aquamarine;
     background-color: brown;
